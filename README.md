@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Pedro+Módolo.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv" alt="Pixel Art" align="right" width="200" height="107">
+<img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv" alt="Pixel Art" align="right" width="300" height="160">
 
 ### Technologies and tools:
 
@@ -18,8 +18,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Pedromodolobo">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedromodolobo&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromodolobo&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Pedromodolobo&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromodolobo&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
